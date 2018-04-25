@@ -9,6 +9,6 @@ setup(
     author='chenglp',
     author_email='chenglongping@100tal.com',
     include_package_data=True,
-    install_requires=['django<=1.11', 'requests', 'django-cacheops==2.4.3'],
+    install_requires=['django<=2.0', 'requests', 'django-cacheops==2.4.3'],
     description=''
 )
